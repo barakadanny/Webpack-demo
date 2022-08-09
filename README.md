@@ -1,6 +1,6 @@
 # Webpack Demo
 
-> This is just Repository aim to practice on settingup the programming environment using webpack
+> This Repository aim to practice on settingup the programming environment using webpack
 
 ## Built With
 
